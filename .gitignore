@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# AI data
+data/faiss/
+data/documents.pkl
+data/library.txt
+
+# Books
+books/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Build
+dist/
+build/
+*.spec
