@@ -32,6 +32,9 @@ For everyday questions that do not require documents, **Chat mode** lets you tal
 
 Your documents, chats, summaries, indexes, and cache remain on your own computer.
 
+<img width="543" height="377" alt="Screenshot 2026-07-17 183244" src="https://github.com/user-attachments/assets/9660a7a8-fc70-431e-adaa-64f8944ad38e" />
+
+
 ## Features
 
 - Private local AI powered by Ollama
