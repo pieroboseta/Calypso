@@ -14,6 +14,10 @@ Calypso lets you build a private local library from your own documents, ask ques
 
 [Download Calypso](https://github.com/pieroboseta/Calypso/releases/latest) · [Report a Problem](https://github.com/pieroboseta/Calypso/issues)
 
+<br>
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-0070BA?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/xsinerox)
+
 </div>
 
 ---
