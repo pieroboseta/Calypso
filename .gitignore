@@ -1,26 +1,29 @@
-# Virtual environment
 .venv/
-
-# Python
+venv/
 __pycache__/
-*.pyc
-
-# VS Code
-.vscode/
-
-# AI data
-data/faiss/
-data/documents.pkl
-data/library.txt
-
-# Books
-books/
-
-# Windows
-Thumbs.db
-Desktop.ini
-
-# Build
-dist/
-build/
+*.py[cod]
+*.pyd
 *.spec
+
+build/
+dist/
+installer_output/
+
+data/
+library/
+*.log
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+*.key
+*.pem
+
+# Installer output and local shortcuts
+installer/*.exe
+installer/*.ifp
+*.lnk
